@@ -16,14 +16,18 @@ The application was developed in React Native with Expo and Styled-components us
 
 <div align="center">
     <div>
-        <img width="140px" src="./assets/Print-1.jpg" alt="Print da tela inicial sem turmas cadastradas" />
-        <img width="140px" src="./assets/Print-2.jpg" alt="Print da tela de adicionar turma" />
-        <img width="140px" src="./assets/Print-3.jpg" alt="Print da tela da turma 'Duelo' com os times vazios" />
-        <img width="140px" src="./assets/Print-4.jpg" alt="Print da tela da turma Duelo com o Time A contendo os nomes Dumbledore, Minerna e Snape" />
-        <img width="140px" src="./assets/Print-5.jpg" alt="Print da tela inicial com a turma 'Duelo' cadastrada"/>
-        <img width="140px" src="./assets/Print-6.jpg" alt="Print da tela da turma 'Duelo' com um modal de confirmação para exclusão da turma" />
+        <img width="130px" src="./assets/Print-1.jpg" alt="Print da tela inicial sem turmas cadastradas" />
+        <img width="130px" src="./assets/Print-2.jpg" alt="Print da tela de adicionar turma" />
+        <img width="130px" src="./assets/Print-3.jpg" alt="Print da tela da turma 'Duelo' com os times vazios" />
+        <img width="130px" src="./assets/Print-4.jpg" alt="Print da tela da turma Duelo com o Time A contendo os nomes Dumbledore, Minerna e Snape" />
+        <img width="130px" src="./assets/Print-5.jpg" alt="Print da tela inicial com a turma 'Duelo' cadastrada"/>
+        <img width="130px" src="./assets/Print-6.jpg" alt="Print da tela da turma 'Duelo' com um modal de confirmação para exclusão da turma" />
     </div>
 </div>
+
+## Video
+
+https://user-images.githubusercontent.com/86618257/199761580-a3f7b7fc-3503-425b-a13c-dbd88faba02b.mp4
 
 ## Stack
 
